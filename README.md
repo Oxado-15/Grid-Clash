@@ -6,16 +6,16 @@ In Grid Clash, you control your character using a simple and intuitive keyboard 
 
 * **Movement:**
 
-* Use **W, A, S, D** to move **Up, Left, Down,** and **Right** respectively.
+Use **W, A, S, D** to move **Up, Left, Down,** and **Right** respectively.
  
 * **Shooting:**
 
-* Fire projectiles in different directions with:
+  * Fire projectiles in different directions with:
 
-* **I** to shoot **Up**
-* **J** to shoot **Left**
-* **K** to shoot **Down**
-* **L** to shoot **Right**
+    * **I** to shoot **Up**
+    * **J** to shoot **Left**
+    * **K** to shoot **Down**
+    * **L** to shoot **Right**
 * **Dash:** Use the Spacebar to perform a quick dash and evade attacks.
 
 * **Quit Game:** Press **Q** to exit the game.
