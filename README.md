@@ -16,6 +16,7 @@ Use **W, A, S, D** to move **Up, Left, Down,** and **Right** respectively.
     * **J** to shoot **Left**
     * **K** to shoot **Down**
     * **L** to shoot **Right**
+      
 **Dash:** Use the Spacebar to perform a quick dash and evade attacks.
 
 **Quit Game:** Press **Q** to exit the game.
