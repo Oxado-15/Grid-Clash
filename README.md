@@ -22,5 +22,6 @@ Use **W, A, S, D** to move **Up, Left, Down,** and **Right** respectively.
 
 * **Levels:**
 
-**Level 1:** Static target shooting practice to get familiar with controls.\n
+**Level 1:** Static target shooting practice to get familiar with controls.
+
 **Level 2:** Intense boss fight featuring moving enemies, minions, and special attacks.
